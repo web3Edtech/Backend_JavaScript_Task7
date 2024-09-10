@@ -1,2 +1,2 @@
-# Backend_JavaScript_Task6
-Fetching User Data with Promises
+# Backend_JavaScript_Task7
+Fetch and Display Random User Data using Async/Await
